@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid white;
+}
+
+body img{
+    width: 70%;
+    height: auto;
+}
+
+#container{
+    width: 100%;
+}
+
+section{
+    text-align: justify;
+}
+
+footer{
+    text-align: center;
+    color: white;
+}
